@@ -57,6 +57,13 @@ def delete(sno):
     db.session.commit()
     return redirect('/')
 
+
+@app.route("/about.html")
+def about():
+    return render_template('about.html')
+
+
+
 # Write this below code to run the website, or we can directly type in terminal as well (flask --app app run --debug)
 # if __name__ == '__main__':
 #     app.run(debug=True)
