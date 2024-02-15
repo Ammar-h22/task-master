@@ -70,4 +70,4 @@ Open your web browser and go to http://localhost:5000 to access Task-Master.
 
 Explore the intuitive interface, create tasks, update them, delete completed ones, and keep your to-do list organized.
 
-Happy Task Managing!
+Happy task managing!
